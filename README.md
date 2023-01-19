@@ -1,4 +1,4 @@
-# Wecode Git Test
+# Git Practice
 
 해당 레포지토리는 `git test`를 위한 레포지토리입니다.
 
